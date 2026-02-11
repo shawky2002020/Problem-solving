@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node p1.js > input.txt",
-    "p1": "npx tsx p1.ts",
-    "p2": "npx tsx p2.ts",
-    "p3": "npx tsx p3.ts"
+    "p1": "npx tsx w2/p1.ts",
+    "p2": "npx tsx w2/p2.ts",
+    "p3": "npx tsx w2/p3.ts",
+    "p4": "npx tsx w2/p4.ts",
+    "p5": "npx tsx w2/p5.ts"
   },
   "keywords": [],
   "author": "",
