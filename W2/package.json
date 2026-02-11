@@ -1,0 +1,19 @@
+{
+  "name": "ps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node p1.js > input.txt",
+    "p1": "npx tsx p1.ts",
+    "p2": "npx tsx p2.ts",
+    "p3": "npx tsx p3.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}
