@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "p1": "npx tsx w2/p1.ts",
-    "p2": "npx tsx w2/p2.ts",
-    "p3": "npx tsx w2/p3.ts",
-    "p4": "npx tsx w2/p4.ts",
-    "p5": "npx tsx w2/p5.ts"
+    "p1": "npx tsx w3/p1.ts",
+    "p2": "npx tsx w3/p2.ts",
+    "p3": "npx tsx w3/p3.ts",
+    "p4": "npx tsx w3/p4.ts",
+    "p5": "npx tsx w3/p5.ts"
   },
   "keywords": [],
   "author": "",
