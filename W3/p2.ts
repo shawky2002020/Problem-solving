@@ -24,7 +24,7 @@ function readBooksCalc(numBooks: number, time: number, booksTimeArr: number[]) {
   return booksRead;
 }
 
-let res = readBooksCalc(4,5, [10,1,2,1]);
-console.log(res);
+let res2 = readBooksCalc(4,5, [10,1,2,1]);
+console.log(res2);
 
 //3 max

@@ -10,7 +10,7 @@
         "tsx",
         "watch",
         "--inspect",
-        "W3/p2.ts"
+        "W3/p3.ts"
       ],
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal",
