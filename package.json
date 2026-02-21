@@ -8,7 +8,9 @@
     "p2": "npx tsx w3/p2.ts",
     "p3": "npx tsx w3/p3.ts",
     "p4": "npx tsx w3/p4.ts",
-    "p5": "npx tsx w3/p5.ts"
+    "p5": "npx tsx w3/p5.ts",
+    "p6": "npx tsx w3/p6.ts",
+    "p7": "npx tsx w3/p7.ts"
   },
   "keywords": [],
   "author": "",
