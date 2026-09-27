@@ -4,6 +4,20 @@ A showcase repository of algorithmic problem-solving solutions, competitive prog
 
 ---
 
+## 📊 Overview & Statistics
+
+**Total Problems Solved:** **~47+**
+
+| Platform / Category | Problems Solved | Difficulty / Highlights |
+|---------------------|:---------------:|-------------------------|
+| **LeetCode** | **26** | 9 Easy, 17 Medium (Arrays, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Prefix Sum, SQL) |
+| **Codeforces** | **11** | Contests: Week 02 (5 problems) & Week 03 (6 problems) |
+| **HackerRank** | **2** | Optimal Binary Max-Heap & Greedy String Replacements |
+| **JavaScript Practical & Polyfills** | **8** | Async/Await Pipelines, Hand-crafted Polyfills (`map`, `filter`, `debounce`), Utilities |
+| **Total** | **~47+** | Clean TypeScript, Modern JavaScript, and SQL solutions |
+
+---
+
 ## 📁 Repository Structure
 
 ```

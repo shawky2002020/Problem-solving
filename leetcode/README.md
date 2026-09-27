@@ -2,6 +2,8 @@
 
 Comprehensive collection of LeetCode solutions written in TypeScript and SQL, organized by algorithm and data structure pattern.
 
+**Total Problems Solved:** **26** (9 Easy, 17 Medium)
+
 ## Topic Index
 
 ### 1. Arrays & Hashing
