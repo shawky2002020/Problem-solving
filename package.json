@@ -1,20 +1,25 @@
 {
-  "name": "ps",
+  "name": "problem-solving",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Algorithmic problem solving, competitive programming, and system patterns in TypeScript and JavaScript",
   "scripts": {
-    "p1": "npx tsx w3/p1.ts",
-    "p2": "npx tsx w3/p2.ts",
-    "p3": "npx tsx w3/p3.ts",
-    "p4": "npx tsx w3/p4.ts",
-    "p5": "npx tsx w3/p5.ts",
-    "p6": "npx tsx w3/p6.ts",
-    "p7": "npx tsx w3/p7.ts"
+    "test:w2": "npx tsx codeforces/week-02/p1-anton-and-letters.ts",
+    "test:w3": "npx tsx codeforces/week-03/p1-sereja-and-dima.ts",
+    "test:leetcode": "npx tsx leetcode/arrays-and-hashing/two-sum.ts",
+    "test:async": "node javascript/async-programming/callback-to-async-await.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "problem-solving",
+    "leetcode",
+    "codeforces",
+    "hackerrank",
+    "typescript",
+    "javascript",
+    "algorithms",
+    "data-structures"
+  ],
+  "author": "Shawky Elsayed",
+  "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
     "tsx": "^4.21.0"
